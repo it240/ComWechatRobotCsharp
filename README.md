@@ -1,6 +1,6 @@
 ## 描述
 ### 本项目是 @github/ljc545w 大佬的[ComWechatRobot](https://github.com/ljc545w/ComWeChatRobot) C#版实现
-
+（ljc545w大佬的最新版本的com里面，缺失了CReceiveMessage()函数，无法接收消息，怎么办？）
 ### 目前实现以下功能：
 - 获取通讯录
 - 获取所有群成员基础信息(含wxid，群昵称，微信昵称）
